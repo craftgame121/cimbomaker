@@ -1,4 +1,4 @@
-# cimbomaker
+# combomaker
 this is a combo maker
 
 first put your combo in app
